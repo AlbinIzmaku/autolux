@@ -1,0 +1,30 @@
+
+.a {
+  margin-left: 35px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.02em;
+}
+.primary {
+  width: 120px;
+  height: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 15px;
+  gap: 10px;
+  margin-left: 35px;
+
+  border: 0.6px solid #ffffff;
+  border-radius: 100px;
+
+  font-family: "Poppins" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+}

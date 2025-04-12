@@ -1,0 +1,17 @@
+.footer {
+  height: 185px;
+  display: flex;
+  align-items: center;
+  margin: 0 60px 89px 60px;
+  padding: 52px 43px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+}
+.footer_container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 0;
+  gap: 30px;
+  margin: 0 auto;
+}

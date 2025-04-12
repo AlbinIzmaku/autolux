@@ -1,5 +1,5 @@
-.div {
+.nav {
   display: flex;
   flex-direction: row;
-  margin-top: 136px;
+  align-items: center;
 }
